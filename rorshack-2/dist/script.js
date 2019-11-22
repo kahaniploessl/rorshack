@@ -4,7 +4,7 @@ function setup() {
 
 function draw() {
   frameRate(15);
-  rotateX(frameCount*0.005);
-  rotateY(frameCount*0.005);
+  rotateX(frameCount*0.02);
+  rotateY(frameCount*0.02);
   box(80,200);
 }
