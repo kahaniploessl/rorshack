@@ -6,5 +6,5 @@ function draw() {
   frameRate(15);
   rotateX(frameCount*0.02);
   rotateY(frameCount*0.02);
-  box(240,800);
+  box(160,600);
 }
